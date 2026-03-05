@@ -61,14 +61,15 @@ I am **Raidan Al-khateeb**, an Artificial Intelligence student passionate about 
 Sana'a, Yemen
 
 
+
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAIDAN44&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=RAIDAN44&show_icons=true&theme=tokyonight" />
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAIDAN44&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAIDAN44&layout=compact&theme=tokyonight" />
