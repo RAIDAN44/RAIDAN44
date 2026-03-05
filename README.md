@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**RAIDAN44/RAIDAN44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Raidan Al-khateeb**, an Artificial Intelligence student passionate about building intelligent systems and solving real-world problems using modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 AI Student at **Al-Razi University**
+- 🧠 Interested in **Artificial Intelligence, Machine Learning, and Data Science**
+- 💻 Experienced with multiple programming languages and modern technologies
+- 📊 Skilled in **data analysis, processing, and visualization**
+
+---
+
+## 💻 Programming Languages
+
+- Python
+- C++
+- Java
+- JavaScript
+- PHP
+- HTML
+- CSS
+- Dart (Flutter)
+
+---
+
+## 🤖 AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+
+---
+
+## 📊 Data Science & Analytics
+
+- Data Analysis with Python
+- Data Visualization
+- Power BI
+- STATA
+- R
+- Big Data Tools (Hadoop)
+
+---
+
+## 🛠 Tools & Technologies
+
+- Git & GitHub
+- Flutter
+- Web Development
+- Data Processing
+- Software Development
+
+---
+
+## 📍 Location
+
+Sana'a, Yemen
